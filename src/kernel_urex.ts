@@ -1,0 +1,1 @@
+const service_urex = <T>(args: T): T => { return args; };
