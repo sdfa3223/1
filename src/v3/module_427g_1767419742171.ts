@@ -1,0 +1,1 @@
+const util_427g = (d: any) => d;
